@@ -1,5 +1,5 @@
 {
-	"name": "achse/geth-jsonrpc-php-client",
+	"name": "sellix/geth-jsonrpc-php-client",
 	"description": "API client lib for communication with geth (go-ethereum) node.",
 	"license": "MIT",
 	"type": "library",
